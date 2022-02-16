@@ -1,2 +1,2 @@
 # DataStructureAndAlgorithm
-Data Structure &amp; Algorithm study
+data structure &amp; algorithm study
